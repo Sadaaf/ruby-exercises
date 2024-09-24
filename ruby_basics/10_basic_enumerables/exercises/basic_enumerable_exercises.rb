@@ -38,5 +38,3 @@ def find_word_lengths(word_list)
     acc
   end
 end
-animals = ['cat', 'horse', 'rabbit', 'deer']
-find_word_lengths(animals)
